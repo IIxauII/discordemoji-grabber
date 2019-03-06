@@ -1,0 +1,24 @@
+{
+  "name": "discordemoji-grabber",
+  "version": "0.0.1",
+  "description": "grabs emoji's from discordemoji.com for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IIxauII/discordemoji-grabber.git"
+  },
+  "author": "IIxauII",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IIxauII/discordemoji-grabber/issues"
+  },
+  "homepage": "https://github.com/IIxauII/discordemoji-grabber#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "image-downloader": "^3.4.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
